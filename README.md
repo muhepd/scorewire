@@ -208,4 +208,32 @@ scorewire/
     └── index.html      # Full frontend (single file)
 ```
 
+## Screenshots
+
+<img width="885" height="1092" alt="image" src="https://github.com/user-attachments/assets/c1a9e835-2478-4b12-836b-5607c8b06185" />
+
+<img width="949" height="1181" alt="image" src="https://github.com/user-attachments/assets/053283e0-0776-4bee-9f15-68c266633bc0" />
+
+<img width="3606" height="886" alt="image" src="https://github.com/user-attachments/assets/80661632-edc0-475f-9abe-7088aa9f3e39" />
+
+<img width="3610" height="1415" alt="image" src="https://github.com/user-attachments/assets/08bf9b19-a06c-4d8e-92ef-68f049afd5fd" />
+
+<img width="3607" height="1855" alt="image" src="https://github.com/user-attachments/assets/a1d67dd6-aa74-489a-8351-48cafa458a07" />
+
+<img width="3612" height="557" alt="image" src="https://github.com/user-attachments/assets/848d602b-9962-466b-8986-27f542f3cc4f" />
+
+<img width="3616" height="658" alt="image" src="https://github.com/user-attachments/assets/e3a902d5-fae9-4b2a-a83b-5d11f1b7e2f0" />
+
+<img width="3599" height="602" alt="image" src="https://github.com/user-attachments/assets/6af4f4c2-5e61-4330-9505-5e6ae9efc79d" />
+
+
+
+
+
+
+
+
+
+
+
 ---
