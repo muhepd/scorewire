@@ -1,0 +1,8 @@
+{
+  "name": "wolfpack-scorecard",
+  "version": "1.9.0",
+  "description": "Aberfoyle Wolfpack Baseball Scorecard",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
